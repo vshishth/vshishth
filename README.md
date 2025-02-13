@@ -8,7 +8,7 @@ I’m a **Senior Software Engineer** with **11+ years** of experience in **.NET,
 - **Cloud & DevOps**: Azure, Docker, Kubernetes, Azure DevOps
 
 ### Quick Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vshishth&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vshishth&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ### Let’s Connect
 - [LinkedIn](https://linkedin.com/in/vshishth)
