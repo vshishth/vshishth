@@ -7,6 +7,9 @@ I’m a **Senior Software Engineer** with **11+ years** of experience in **.NET,
 - **Frameworks**: Angular, ASP.NET, .NET Core  
 - **Cloud & DevOps**: Azure, Docker, Kubernetes, Azure DevOps
 
+### Quick Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vshishth&show_icons=true&theme=dark&hide_border=true)
+
 ### Let’s Connect
 - [LinkedIn](https://linkedin.com/in/vshishth)
 - [Email](mailto:sachinvshishth@gmail.com)
