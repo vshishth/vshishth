@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I’m Sachin Vshishth! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<!--
-**vshishth/vshishth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Senior Software Engineer** with **11+ years** of experience in **.NET, Angular, and Azure**, building scalable applications. Skilled in **microservices**, **cloud-native architectures**, and **DevOps**. Currently based in **Bengaluru, India**.
 
-Here are some ideas to get you started:
+### Tech Stack
+- **Languages**: C#, TypeScript, JavaScript  
+- **Frameworks**: Angular, ASP.NET, .NET Core  
+- **Cloud & DevOps**: Azure, Docker, Kubernetes, Azure DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quick Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vshishth&show_icons=true&theme=dark&hide_border=true)
+
+### Let’s Connect
+- [LinkedIn](https://linkedin.com/in/vshishth)
+- [Email](mailto:sachinvshishth@gmail.com)
