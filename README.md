@@ -29,13 +29,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vshishth&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sachin's GitHub Stats" />
-</div>
-
-<br/>
-
 ## 🤝 Let’s Connect
 <p align="center">
   <a href="https://linkedin.com/in/vshishth" target="_blank">
