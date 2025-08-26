@@ -4,15 +4,19 @@
 
 # Hi, I’m <b>Sachin Vshishth</b> <img src="https://em-content.zobj.net/thumbs/60/apple/285/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" width="35px" />
 
-**Senior Software Engineer** · **11+ years** designing & building enterprise software  
-Expert in **.NET Core**, **Angular**, **Azure**, and **microservices architecture**
+**Senior Software Engineer** · **11+ years** crafting enterprise-grade applications  
+Specialist in **.NET Core**, **Angular**, **Azure**, and **Microservices Architecture**
 
-Transforming ideas into reliable, scalable, and cloud-native solutions. Passionate about **DevOps automation**, **event-driven systems**, and modern best practices to build for scale, speed, and security.
+I transform complex ideas into **scalable, cloud-native, and high-performance solutions**.  
+Passionate about **DevOps automation**, **event-driven architectures**, and building with modern engineering practices to ensure **scale, speed, and security**.
 
-- 🌍 Bengaluru, India
-- 🚀 **Current:** Engineering high-availability restaurant POS & waitlist systems at **SpotOn**
-- 💼 **Past:** Bounteous x Accolite · SVAM International · Fiserv
-- 🏆 **Certification:** Microsoft Certified: Azure Developer Associate
+---
+
+### 👨‍💻 About Me
+- 🌍 Based in Bengaluru, India  
+- 🚀 **Current:** Building high-availability restaurant POS & waitlist systems at **SpotOn**  
+- 💼 **Previously:** Bounteous x Accolite · SVAM International · Fiserv  
+- 🏆 **Certified:** Microsoft Azure Developer Associate  
 
 ---
 
